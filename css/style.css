@@ -145,8 +145,12 @@ header{
 .common-title, .new h1{
 	font-size: 59px;
 }
-.common-title .new p{
+.common-title, .new p{
 	font-size: 22px;
+	
+}
+.new p{
+	font-size: 18px;
 	
 }
 .circle{
